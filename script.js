@@ -1,4 +1,4 @@
-let input = document.getElementById("sonuc");
+let input = document.getElementById("sonuc"); // element which id was sonuc
 let buttons = Array.from(document.getElementsByTagName("button"));
 
 buttons.forEach((button) => {
